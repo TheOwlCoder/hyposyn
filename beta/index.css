@@ -4,9 +4,10 @@ body {
 
 .avatar {
     vertical-align: middle;
-    width: 125px;
-    height: 125px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
-    border: 2px;
-    padding-left: 10px;
+    border: 5px;
+    padding-left: 50px;
+    border-color: white;
   }
