@@ -13,5 +13,6 @@ body {
 
 /* Solid border */
 hr.solid {
-    border-top: 3px solid #bbb;
+    border-top: 3px solid #272e3a;
+    box-shadow: #272e3a;
   }
