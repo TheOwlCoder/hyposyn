@@ -13,9 +13,9 @@ body {
 
 /* Solid border */
 hr.solid {
-    border-top: 2px solid #343e4d;
-    border-bottom: 2px solid #343e4d;
-    border-left: 1px solid #343e4d;
-    border-right: 1px solid #343e4d;
-    box-shadow: 3px #343e4d;
+    border-top: 2px solid #2f3641;
+    border-bottom: 2px solid #2f3641;
+    border-left: 1px solid #2f3641;
+    border-right: 1px solid #2f3641;
+    box-shadow: 5px #343e4d;
   }
