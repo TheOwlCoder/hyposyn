@@ -15,6 +15,7 @@ body {
 hr.solid {
     border-top: 2px solid #343e4d;
     border-bottom: 2px solid #343e4d;
-    border-left: 1px sold #343e4d;
-    border-right: 1px sold #343e4d;
+    border-left: 1px solid #343e4d;
+    border-right: 1px solid #343e4d;
+    box-shadow: 3px #343e4d;
   }
