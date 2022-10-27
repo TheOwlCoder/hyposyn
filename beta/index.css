@@ -14,4 +14,5 @@ body {
 /* Solid border */
 hr.solid {
     border-top: 4px solid #272e3a;
+    border-bottom: 4px solid #272e3a;
   }
