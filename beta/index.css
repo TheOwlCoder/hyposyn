@@ -13,8 +13,8 @@ body {
 
 /* Solid border */
 hr.solid {
-    border-top: 2px solid #272e3a;
-    border-bottom: 2px solid #272e3a;
-    border-left: 1px sold #272e3a;
-    border-right: 1px sold #272e3a;
+    border-top: 2px solid #343e4d;
+    border-bottom: 2px solid #343e4d;
+    border-left: 1px sold #343e4d;
+    border-right: 1px sold #343e4d;
   }
